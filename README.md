@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # Polyglot 😛
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanqm&layout=compact&langs_count=20&theme=ambient_gradient)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanqm&layout=compact&langs_count=20&theme=ambient_gradient&stats_format=bytes)
